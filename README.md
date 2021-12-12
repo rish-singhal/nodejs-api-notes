@@ -1,20 +1,21 @@
-# Learning API Design in NodeJs
+# Learning API Design in NodeJS
 
 The repository contains notes and examples for learning API design in NodeJs.
 
 ## Contents
 
-TBA
+- [Notes](./notes.md)
 
 ## Technology Used
 
-- NodeJs
-- Express
+- NodeJS
+- ExpressJS
 - MongoDB
 
 ## Resources
 
-https://frontendmasters.com/courses/api-design-nodejs-v3
+1. https://frontendmasters.com/courses/api-design-nodejs-v3
+2. https://www.npmjs.com
 
 ## Authors
 
