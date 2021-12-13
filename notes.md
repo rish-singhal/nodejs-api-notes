@@ -38,6 +38,11 @@ Non-relational document store, storing JSON like a blob.
 
 **ORM/ ODM:** Object Relational Mapper (ORM) converting data types in and out.
 
+MongoDB is a Schemaless document store, but one can also use schemas to enforce data types.
+
 ### Middleware
 
-Some functions which are executed on the request object before the controller handles it.
+Some functions which are executed on the request object before the controller handles it. 
+~ Middlewares can also response to the request like controller although it is not the intention.
+
+ExpressJs allows to use different mioddlewares as modules to process the request.
